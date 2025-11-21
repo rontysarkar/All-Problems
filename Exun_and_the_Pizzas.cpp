@@ -6,8 +6,9 @@ int main()
 {
     ios_base::sync_with_stdio(0); cin.tie(0);
 
-    cout << 55%2;
-
+    int n,k,r;
+    cin >> n >> k >> r;
+    n = n - k;
+    cout << n * r << endl;
     return 0;
 }
-

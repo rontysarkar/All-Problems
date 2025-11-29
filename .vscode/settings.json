@@ -5,6 +5,9 @@
         "string": "cpp",
         "vector": "cpp",
         "random": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp"
     }
 }
